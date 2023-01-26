@@ -6,7 +6,7 @@ body {
 }
 
 
-.genre {
+.genres {
     display: flex;
     box-sizing: border-box;
     flex-wrap: wrap;
@@ -16,7 +16,6 @@ body {
 .genre1 {
     flex-basis: 200px;
     height: 100px;
-  
     align-items: center;
     flex-wrap: wrap;
 }
